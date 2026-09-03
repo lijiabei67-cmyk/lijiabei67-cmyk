@@ -6,7 +6,7 @@
 
 </div>
 
-I am an undergraduate in **Data Science and Big Data Technology** at the **Southern University of Science and Technology (SUSTech)**. I focus on LLM post-training, research agents, and evidence-grounded evaluation. I am preparing applications to postgraduate CS/AI programmes in Hong Kong and seeking LLM/Agent Engineering internship opportunities.
+I am an undergraduate in **Data Science and Big Data Technology** at the **Southern University of Science and Technology (SUSTech)**. I focus on LLM post-training, research agents, and evidence-grounded evaluation. I am preparing applications to postgraduate CS/AI programmes in Hong Kong and Singapore and seeking LLM/Agent Engineering internship opportunities.
 
 <p align="center">
   <img src="assets/mascots/math-cat.gif" width="80" alt="Math Cat with a formula board">
