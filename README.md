@@ -44,7 +44,7 @@ For transparency, the linked report's experiment table separately lists a **36.2
 
 </details>
 
-### OpenClaw Research Agent Claim–Evidence Consistency Evaluation
+### [OpenClaw Research Agent Claim–Evidence Consistency Evaluation](https://github.com/lijiabei67-cmyk/lijiabei67-cmyk-openclaw-claim-evidence-eval)
 
 **Lead Experimental Designer**<br>
 *Course project for “The Foundations and Applications of Large Language Models” · June 2026*
